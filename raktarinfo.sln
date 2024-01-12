@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raktarinfo", "raktarinfo.csproj", "{4AE77D62-378C-43B1-9952-668E5D7A1845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AE77D62-378C-43B1-9952-668E5D7A1845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE77D62-378C-43B1-9952-668E5D7A1845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE77D62-378C-43B1-9952-668E5D7A1845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE77D62-378C-43B1-9952-668E5D7A1845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D670A65-A442-4022-A8CA-15E7C06EBD5A}
+	EndGlobalSection
+EndGlobal
